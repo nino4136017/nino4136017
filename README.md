@@ -8,4 +8,6 @@
 |[Elys-BB]
 |[Pulsara](https://medium.com/@pulsara.io/pulsaras-sara-token-airdrop-for-coreum-holders-comprehensive-guide-a1a3a4a1d223) |
 |[NebulaFI](https://nebulafi.xyz/faucet) |
+||
+|https://wallet.magiceden.io/|
 ✔️ ✅ ❌ ⚠️ ℹ️
