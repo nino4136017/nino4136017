@@ -10,4 +10,5 @@
 | ⚠️ [NebulaFI](https://nebulafi.xyz/faucet) |
 ||
 |https://wallet.magiceden.io/|
+|                                            |                                                                             |
 ✔️ ✅ ❌ ⚠️ ℹ️
