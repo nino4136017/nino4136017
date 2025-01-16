@@ -1,12 +1,15 @@
+
+---
 ### TO DO
 
-❓ Join axelar [discord](https://discord.gg/axelar) Go 
+❓ Join axelar [discord](https://discord.gg/axelar)
 
+---
 ### DONE
 
  ✅ [Aigisos](https://quest.intract.io/quest/6764267cb4c9cfdac86ec3e7)
 
-
+---
 
 
 | Proj |      | Notes|
