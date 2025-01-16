@@ -1,3 +1,16 @@
+### TO DO
+
+❓ Join axelar discord (https://discord.gg/axelar) Go 
+
+### DONE
+
+ ✅ [Aigisos](https://quest.intract.io/quest/6764267cb4c9cfdac86ec3e7)
+
+
+
+https://quest.intract.io/quest/6764267cb4c9cfdac86ec3e7
+
+
 | Proj |      | Notes|
 |------|------|------|
 |                                            |                                                                             |
@@ -11,4 +24,4 @@
 ||
 |https://wallet.magiceden.io/|
 |                                            |                                                                             |
-✔️ ✅ ❌ ⚠️ ℹ️
+✔️ ✅ ❌ ⚠️ ℹ️ ❓
